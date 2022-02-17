@@ -1,4 +1,4 @@
-ENGLISH BELOW:
+ENGLISH BELOW!!!!!
 
 Sposób organizacji sieci:
 System składa się z niezależnych węzłów z kórych każdy może komunikować się z conajmniej jednym innym węzłem.
@@ -59,7 +59,8 @@ przykład komendy:
 java NetworkNode -ident 1 -tcpport 5001 -gateway localhost:5000 A:6 B:1 C:4
 
   
-
+ENGLISH:
+ 
 How the network is organized:
 The system consists of independent nodes each of which can communicate with at least one other node.
 The network is organized by means of NetworkNode class objects which are servers waiting for connection from the client.
