@@ -1,2 +1,2 @@
 # PJATK_UTP
-Code written for UTP classes in second year of IT studies at PJATK
+Code written for classes at PJATK.
